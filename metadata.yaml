@@ -1,0 +1,27 @@
+_repo: Der-Unterkiefer-des-Homo-HeidelbergensisAus-den-Sanden-von-Mauer-bei-Heidelberg_36382
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schoetensack, Otto
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '38238'
+    url: http://www.gutenberg.org/2009/agents/38238
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-06-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36382'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples'
+- !lcc 'GN'
+title: 'Der Unterkiefer des Homo Heidelbergensis: Aus den Sanden von Mauer bei Heidelberg'
+url: http://www.gutenberg.org/ebooks/36382
