@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38238'
     url: http://www.gutenberg.org/2009/agents/38238
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36382#Der-Unterkiefer-des-Homo-HeidelbergensisAus-den-Sanden-von-Mauer-bei-Heidelberg
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-06-11'
 gutenberg_type: Text
